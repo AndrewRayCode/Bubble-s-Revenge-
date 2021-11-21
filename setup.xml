@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<bubbleGame>
+	<bubble id="1">
+  		<targetWidth>0290.6</targetWidth>
+ 		<initWidth>00340.5</initWidth>
+ 		<bubbleSize>6045.2</bubbleSize>
+ 		<key>7508575750.7</key>
+	</bubble>
+</bubbleGame>
